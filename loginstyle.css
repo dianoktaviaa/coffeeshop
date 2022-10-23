@@ -1,0 +1,60 @@
+
+/*Navbar*/
+
+.navbar-brand{
+    font-family: 'Passero One';font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    color: #665A48;
+}
+
+.nav-link{
+    font-size: 18px;
+    font-family: poppins, sans-serif;
+    color: #665A48;
+}
+
+.nav-link.active{
+    font-weight: 700;
+    font-size: 18px;
+    font-family: poppins, sans-serif;
+    color: #665A48;
+}
+
+
+.button-primary{
+    width: 94px;
+    height: 46px;
+    background-color: transparent;
+    font-weight: 500;
+    font-size: 16px;
+    color: #665A48;
+    border: none;
+    font-weight: 500; 
+}
+
+.button-secondary{
+    width: 94px;
+    height: 46px;
+    background-color: transparent;
+    border: 1px solid #665A48;
+    border-radius: 100px;
+    font-weight: 500;
+    font-size: 16px;
+    color: #665A48;
+    font-weight: 500;
+}
+
+/*Log In*/
+.btn-lg{
+    background: linear-gradient(90.68deg, #7D6E83 0%, rgba(208, 184, 168, 0.6) 138.13%);
+    border: 1px solid #8E7D8B;
+    border-radius: 100px;
+    width: 100%;
+}
+
+.vh-100{
+    color: #665A48;
+    font-family: 'poppins', sans-serif;
+    font-size: 16px;
+}
